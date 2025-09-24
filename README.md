@@ -10,7 +10,7 @@ Este projeto implementa um sistema de detecção de anomalias em tráfego de red
 
 ### Principais Características
 - **Detecção Binária**: Classifica tráfego como BENIGNO ou ATAQUE
-- **Múltiplos Modelos**: Random Forest, SVM, Isolation Forest, LSTM e CNN-LSTM
+- **Múltiplos Modelos**: Random Forest, SVM e Isolation Forest
 - **Alta Performance**: F1-Score > 0.99 no dataset CIC-IDS 2017
 - **Otimização Automática**: Utiliza Optuna para ajuste de hiperparâmetros
 - **Datasets Públicos**: CIC-IDS 2017 (2.8M registros)
