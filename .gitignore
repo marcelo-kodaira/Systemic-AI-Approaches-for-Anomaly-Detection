@@ -1,0 +1,16 @@
+# Data and models
+data/processed/*
+models/*
+figures/*
+*.pkl
+*.h5
+*.onnx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Env
+.env
+venv/
